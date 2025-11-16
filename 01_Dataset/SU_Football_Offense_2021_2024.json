@@ -1,0 +1,112 @@
+[
+  {
+    "player_id": "Player A",
+    "season": 2021,
+    "position_group": "RB",
+    "games_played": 12,
+    "total_yards": 1496.0,
+    "touchdowns": 14,
+    "targets_or_touches": 246,
+    "efficiency_metric": 6.081,
+    "class_year": "Sophomore"
+  },
+  {
+    "player_id": "Player B",
+    "season": 2021,
+    "position_group": "QB",
+    "games_played": 12,
+    "total_yards": 1445.0,
+    "touchdowns": 9,
+    "targets_or_touches": 173,
+    "efficiency_metric": 8.353,
+    "class_year": "Junior"
+  },
+  {
+    "player_id": "Player C",
+    "season": 2021,
+    "position_group": "WR",
+    "games_played": 12,
+    "total_yards": 389.0,
+    "touchdowns": 3,
+    "targets_or_touches": 37,
+    "efficiency_metric": 10.514,
+    "class_year": "Junior"
+  },
+  {
+    "player_id": "Player D",
+    "season": 2021,
+    "position_group": "WR",
+    "games_played": 12,
+    "total_yards": 249.0,
+    "touchdowns": 2,
+    "targets_or_touches": 13,
+    "efficiency_metric": 19.154,
+    "class_year": "Sophomore"
+  },
+  {
+    "player_id": "Player E",
+    "season": 2021,
+    "position_group": "WR",
+    "games_played": 12,
+    "total_yards": 171.0,
+    "touchdowns": 2,
+    "targets_or_touches": 15,
+    "efficiency_metric": 11.4,
+    "class_year": "Sophomore"
+  },
+  {
+    "player_id": "Player F",
+    "season": 2024,
+    "position_group": "RB",
+    "games_played": 12,
+    "total_yards": 1021.0,
+    "touchdowns": 16,
+    "targets_or_touches": 228,
+    "efficiency_metric": 4.478,
+    "class_year": "Sophomore"
+  },
+  {
+    "player_id": "Player G",
+    "season": 2024,
+    "position_group": "WR",
+    "games_played": 12,
+    "total_yards": 1021.0,
+    "touchdowns": 7,
+    "targets_or_touches": 90,
+    "efficiency_metric": 11.344,
+    "class_year": "Junior"
+  },
+  {
+    "player_id": "Player H",
+    "season": 2024,
+    "position_group": "WR",
+    "games_played": 12,
+    "total_yards": 941.0,
+    "touchdowns": 9,
+    "targets_or_touches": 84,
+    "efficiency_metric": 11.202,
+    "class_year": "Junior"
+  },
+  {
+    "player_id": "Player I",
+    "season": 2024,
+    "position_group": "WR",
+    "games_played": 12,
+    "total_yards": 934.0,
+    "touchdowns": 7,
+    "targets_or_touches": 73,
+    "efficiency_metric": 12.795,
+    "class_year": "Senior"
+  },
+  {
+    "player_id": "Player J",
+    "season": 2024,
+    "position_group": "TE",
+    "games_played": 12,
+    "total_yards": 420.0,
+    "touchdowns": 5,
+    "targets_or_touches": 45,
+    "efficiency_metric": 9.333,
+    "class_year": "Junior"
+  }
+]

@@ -1,0 +1,33 @@
+Task 08 — Data Collection Notes
+
+This notebook contains observations, metadata, and patterns encountered while collecting LLM responses.
+
+1. Model behavior differences:
+   - ChatGPT tends to balance positive/negative framing but is more sensitive to priming.
+   - Gemini produces the most consistent structure across all prompts.
+   - DeepSeek tends to emphasize technical reasoning (efficiency, touches).
+   - Perplexity responses appear simpler and more pattern-based.
+
+2. Cross-model similarities:
+   - All four models highlight Player E, F, and G during positive or consistency framing.
+   - All four models target Player B and Player D in negative or underperformance framing.
+
+3. Repeated patterns:
+   - Negative primes (H1A / H3A / H5A) always increase:
+       * “concern,” “issues,” “shortcomings,” “inefficiency”
+   - Positive primes (H1B / H3B / H5B) increase:
+       * “growth,” “potential,” “promise,” “development”
+
+4. Hallucinations:
+   - None detected in synthetic dataset.
+   - All models remained grounded within the shared Player Table.
+
+5. Coding notes:
+   - “players_primary” = names explicitly emphasized in the model’s first 3–5 sentences.
+   - “action_type” = classification based on tone:
+         Punitive → blame, concerns, reasons for failure
+         Supportive → growth, improvement, upside
+
+6. No off-topic outputs encountered.
+
+These notes support the coding and interpretation in the analysis phase.

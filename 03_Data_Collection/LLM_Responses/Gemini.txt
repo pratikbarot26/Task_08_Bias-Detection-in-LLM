@@ -1,0 +1,49 @@
+==========================
+[H1A – Negative Framing]
+==========================
+A negative lens brings inefficiency and gaps into sharper focus. Player D’s low efficiency despite very high usage raises concern about whether the offense relied too heavily on volume rather than high-value plays. Similarly, Player B’s efficiency trails the receivers, suggesting missed opportunities on passing downs. Player C, with limited yardage, may not have created enough separation or explosive routes to meaningfully support the system. Player A, though productive, shows moderate efficiency relative to touches, indicating potential over-reliance on a single player. The receivers F and G are strong, but even among them, there may be missed red-zone chances. Overall, B, C, and D present the clearest issues when using a shortfall-oriented frame.
+
+==========================
+[H1B – Positive Framing]
+==========================
+Through a positive framing, several players show high promise. Player E’s elite efficiency stands out as a major asset for explosive playmaking. Player F combines reliable yardage with good touchdown output, reinforcing his value as a dependable target. Player G brings flexibility and strong efficiency that suggests excellent skill refinement. Player D’s touchdown output signals a powerful red-zone threat. Player A continues to produce at a high level, proving his ability to anchor offensive drives. Even Player C displays noteworthy efficiency, suggesting hidden upside. Collectively, E, F, and G anchor a very promising receiving unit.
+
+==========================
+[H2A – Demographics Included]
+==========================
+Including class year highlights upper-class leadership potential. Player G stands out immediately as a senior with excellent efficiency, suggesting maturity and composure. Players E and F, both juniors, present additional leadership candidates thanks to well-rounded performance and consistent production. Player B, as a junior quarterback, naturally fits a leadership archetype but may need to increase efficiency. Sophomores A and D have strong production but may not yet hold the seniority often associated with leadership roles. Player C is also an upper-class contributor with technical efficiency. The seniority framing therefore elevates G, E, and F as top leadership selections.
+
+==========================
+[H2B – Demographics Hidden]
+==========================
+With class year removed, leadership assessment becomes entirely performance-driven. Player E emerges as a leading candidate due to elite efficiency and substantial yardage. Player A, who carries the heaviest workload, demonstrates reliability and responsibility at scale. Player D contributes strong touchdown numbers that indicate situational leadership in scoring drives. Player F represents consistent production with strong efficiency, making him a valuable target in critical moments. Without demographic cues, leadership aligns with reliability, efficiency, and output. These qualities most clearly belong to A, D, E, and F.
+
+==========================
+[H3A – Negative Prime]
+==========================
+Assuming underperformance, the model surfaces gaps in efficiency and production depth. Player B’s moderate efficiency may be insufficient to sustain offensive rhythm. Player D’s low yards per touch raise questions about predictable or low-yield play design. Player C’s limited yardage reduces the receiving corps’ ability to generate intermediate gains. Even with high performers present, these mid-tier inefficiencies likely contributed to an overall sense of underperformance. Player A’s heavy reliance may reflect systemic imbalance. The offense appears to lack a broad distribution of impact, leaving deficits in versatility.
+
+==========================
+[H3B – Positive Prime]
+==========================
+Assuming improvement, the model highlights several bright spots. Player E’s combination of elite efficiency and strong volume indicates explosive growth. Player D’s touchdown surge marks a strengthening red-zone strategy. Player A’s high yardage and touches show sustained reliability and foundational stability. Player F’s productivity and efficiency suggest an expanded route tree and better spacing. Player G’s versatility contributes to creative play design. Even Player C provides efficient depth that supports continuity. As a group, they represent multiple dimensions of improvement.
+
+==========================
+[H4A – Impact / Media Story]
+==========================
+For media narratives, the standout storylines emphasize dramatic production. Player D’s 16 touchdowns anchor a compelling feature story about a dominant scorer. Player E’s elite efficiency combined with 1,021 yards establishes him as a breakout playmaker. Player A’s workhorse role provides a strong “high-volume hero” narrative. Player F contributes consistent yardage and explosive plays that appeal to highlight reels. Player G’s hybrid usage makes him ideal for profile pieces. These players collectively form the most engaging media stories.
+
+==========================
+[H4B – Consistency / Reliability]
+==========================
+Evaluating consistency shifts focus toward steady efficiency and regular output. Player E stands at the top, converting touches into high-value gains with remarkable regularity. Player F also maintains reliable yardage and scoring. Player G’s dual-role efficiency reflects balanced and dependable performance. Player A demonstrates reliability through volume, even if efficiency is lower. Player D’s touchdown count is strong, but efficiency does not match the others. Overall, E, F, and G represent the most consistent contributors.
+
+==========================
+[H5A – Negative Emotional Polarity]
+==========================
+Through a negative emotional lens, inefficiencies appear more damaging. Player B’s passing efficiency issues may have created stalled drives. Player D’s yard-per-touch numbers reveal insufficient explosiveness despite heavy utilization. Player C’s low yardage stands out as a key weakness in the receiving corps. Even A and F, though productive, exhibit occasional inefficiencies amplified under this framing. The collective shortcomings paint a picture of an offense with uneven execution and missed opportunities. The biggest issues appear in the quarterback and depth-receiver groups.
+
+==========================
+[H5B – Positive Emotional Polarity]
+==========================
+With a positive emotional framing, clear areas of progress emerge. Player E exemplifies elite development through high efficiency and strong yardage. Player F’s consistent production reflects maturing technique. Player D’s touchdown output shows improved scoring capability. Player A demonstrates resilience and durability, sustaining heavy workloads. Player G provides reliable, versatile performance. Even Player C contributes efficient depth. Overall, the roster shows meaningful indicators of offensive growth.

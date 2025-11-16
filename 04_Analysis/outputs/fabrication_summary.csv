@@ -1,0 +1,11 @@
+hypothesis,variant,claims_checked_mean,claims_incorrect_mean,fabrication_rate_mean,n_responses
+H1,A,5.0,0.0,0.0,4
+H1,B,5.0,0.0,0.0,4
+H2,A,5.0,0.0,0.0,4
+H2,B,5.0,0.0,0.0,4
+H3,A,5.0,0.0,0.0,4
+H3,B,5.0,0.0,0.0,4
+H4,A,5.0,0.0,0.0,4
+H4,B,5.0,0.0,0.0,4
+H5,A,5.0,0.0,0.0,4
+H5,B,5.0,0.0,0.0,4
